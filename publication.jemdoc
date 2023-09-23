@@ -1,0 +1,134 @@
+# jemdoc: nofooter, menu{MENU}{research.html}
+#
+= Esmaeil Keyvanshokooh - Publications
+#
+
+#== Research Interests
+#-  Supply Chain Management, Revenue Management, Healthcare Operations
+#-  Approximation Algorithms, Online Learning Algorithms, Algorithmic Game Theory
+
+== Under Revision/Review Papers
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316 Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making], \n
+Esmaeil Keyvanshokooh, Mohammad Zhalechian, Cong Shi, Mark P. Van Oyen, Pooyan Kazemian, Minor Revision at *Management Science*.
+-- In collaboration with [https://www.massgeneral.org/ Massachusetts General Hospital]. 
+-- Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2022.
+-- Finalist, INFORMS MSOM Best Student Paper Competition, 2021.
+-- Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021.
+-- Finalist, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020.
+-- Winner of Katta G. Murty Prize for Best Student Paper on Optimization, 2020.
+
+- [https://ssrn.com/abstract=3703181  Mitigating the COVID-19 Pandemic through Data-Driven Resource Sharing], \n
+Esmaeil Keyvanshokooh, Mohammad Fattahi, Kenneth Freedberg, Pooyan Kazemian, Working paper. #at *Naval Research Logistics*.
+-- In collaboration with [https://www.massgeneral.org/ Massachusetts General Hospital] and [https://hms.harvard.edu/  Harvard Medical School]. 
+
+== Recent Accepted Papers 
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433 Data-Driven Hospital Admission Control: A Contextual Learning Approach], \n
+Mohammad Zhalechian, Esmaeil Keyvanshokooh, Cong Shi, Mark P. Van Oyen, Accepted at *Operations Research*.
+-- Winner of Richard C. Wilson Prize for Best Student Paper on Service Systems, 2021 (Awarded to Mohammad Zhalechian).
+#-- In collaboration with [https://www.stjoeshealth.org/ St. Joseph Mercy Hospital].
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3538509 Online Resource Allocation with Personalized Learning], \n
+Mohammad Zhalechian, Esmaeil Keyvanshokooh, Cong Shi, Mark P. Van Oyen, Accepted at *Operations Research*. [https://pubsonline.informs.org/doi/10.1287/opre.2022.2294 \[DOI\]]
+#-- In collaboration with [https://www.uofmhealth.org/ Michigan Medicine].  
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3352166 Online Advance Scheduling with Overtime: A Primal-Dual Approach], \n
+Esmaeil Keyvanshokooh, Cong Shi, Mark P. Van Oyen, Accepted at *Manufacturing & Service Operations Management*. [https://pubsonline.informs.org/doi/10.1287/msom.2019.0832 \[DOI\]]
+-- In collaboration with [https://www.uofmhealth.org/ Michigan Medicine]. 
+-- Winner of Richard C. Wilson Prize for Best Student Paper on Service Systems, 2019.
+#-- Winner of IOE Bonder Fellowship Award in Applied Operations Research, 2017.
+
+- [https://ssrn.com/abstract=3703173  Coordinated and Priority-based Surgical Care: An Integrated Distributionally Robust Stochastic Optimization Approach], \n
+Esmaeil Keyvanshokooh, Pooyan Kazemian, Mohammad Fattahi, Mark P. Van Oyen, Accepted at *Production & Operations Management*. [https://doi.org/10.1111/poms.13628 \[DOI\]]
+#-- In collaboration with [https://www.mayoclinic.org/ Mayo Clinic]. 
+-- Winner of IOE Bonder Fellowship Award in Applied Operations Research, 2017.
+
+#== Working Papers
+
+#- Low-Regret Online Reinforcement Learning via Transfer Learning: Theory and Applications to Dynamic Treatment Regimes, \n
+#Esmaeil Keyvanshokooh, Mohammad Zhalechian, Cong Shi, Mark P. Van Oyen.
+#-- In collaboration with [https://www.massgeneral.org/  Massachusetts General Hospital]. 
+
+
+== Selected Published Papers (Prior my Ph.D. studies) 
+
+- An Optimization-based Approach for the Healthcare Districting under Uncertainty, \n
+S. M. Darmian, M. Fattahi, S.M. Seyed-Hosseini, E. Keyvanshokooh, *Computers & Operations Research*, Vol. 135, 2021. [https://doi.org/10.1016/j.cor.2021.105425 \[DOI\]]
+
+- Hybrid Robust and Stochastic Optimization Approach for Closed-loop Supply Chain Design Network using an Accelerated Benders Decomposition, \n
+E. Keyvanshokooh, S.M. Ryan, E. Kabir, *European Journal of Operational Research*, Vol. 249 (1), 76-92, 2016. [https://doi.org/10.1016/j.ejor.2015.08.028 \[DOI\]]
+#-- [https://www.journals.elsevier.com/european-journal-of-operational-research/most-cited-articles  Among the 25 most cited articles published in EJOR since 2016].
+
+- Supply Chain Network Design under Uncertainty: a Comprehensive Review and Future Research Directions, \n
+K. Govindan, M. Fattahi, E. Keyvanshokooh, *European Journal of Operational Research*, Vol. 263 (1), 108-141, 2017. [https://doi.org/10.1016/j.ejor.2017.04.009 \[DOI\]]
+#-- [https://www.journals.elsevier.com/european-journal-of-operational-research/most-cited-articles  Among the 25 most cited articles published in EJOR since 2016].
+
+- A Dynamic Pricing Approach for Returned Products in Integrated Forward/Reverse Logistics Network Design, \n
+E. Keyvanshokooh, M. Fattahi, S.M. Seyed-Hosseini, R. Tavakkoli-Moghaddam, *Applied Mathematical Modelling*, Vol. 37 (24), 10182-10202, 2013. [https://doi.org/10.1016/j.apm.2013.05.042 \[DOI\]]
+
+- A Multi-stage Stochastic Program for Supply Chain Network Re-design Problem with Uncertain Price-dependent Demands, \n
+M. Fattahi, K. Govindan, E. Keyvanshokooh, *Computers & Operations Research*, Vol. 100, 314-332, 2018. [https://doi.org/10.1016/j.cor.2017.12.016 \[DOI\]]
+
+#- Responsive and Resilient Supply Chain Network Design under Operational and Disruption Risks with Delivery Lead-time Sensitive Customers, \n
+#M. Fattahi, K. Govindan, E. Keyvanshokooh, *Transportation Research Part E: Logistics & Transportation Review*, Vol. 101, 176-200, 2017. [https://doi.org/10.1016/j.tre.2017.02.004 \[DOI\]]
+
+#- Investigating Replenishment Policies for the Centralized and Decentralized Supply Chains using Stochastic Programming approach, \n
+#M. Fattahi, M. Mahootchi, E. Keyvanshokooh, F. Alborzi, *International Journal of Production Research*, Vol. 53 (1), 41-69, 2015. [https://doi.org/10.1080/00207543.2014.922710 \[DOI\]]
+
+
+== Proposal Writing Experience
+
+I have written various grant proposals for different funding agencies, including: \n
+
+- *Data Science Grant for COVID-19 Research (Michigan Institute for Data Science)*: \n
+Data-Driven Epidemic Prediction and Key Resource Optimization to Combat COVID-19, Fall 2020.
+
+- *National Science Foundation Grant*: \n
+Uncertainty-Sensitive Real-Time Appointment Scheduling for Healthcare Services Delivery, Winter 2018.
+
+- *Shaffer Grant for Glaucoma Research Foundation*:  \n
+Using Machine Learning Methods to Forecast Glaucoma Development, Fall 2017.
+
+
+
+#== Refereed Conference Proceedings
+
+#- Joint Pricing and Inventory Management with Strategic Customers, 
+#Y. Chen, C. Shi, *Proceedings of the 18th ACM Conference on Economics and Computation (EC'17)*, 2017, Cambridge, MA.
+# [https://dl.acm.org/citation.cfm?id=3084086 \[DOI\]]
+
+#- Approximation Algorithms for Capacitated Perishable Inventory Systems with Positive Lead Times, 
+#X. Chao, X. Gong, C. Shi, C. Yang, H. Zhang, S. X. Zhou, *MSOM Supply Chain Management SIG Conference*, 2016, Auckland, New Zealand.
+
+#== Refereed Book Chapter
+#- Approximation Algorithms for Stochastic Optimization Problems in Operations Management, 
+#*Encyclopedia of Operations Research and Management Science* (edited by J. J. Cochran), Wiley, Hoboken, NJ. 
+#[http://onlinelibrary.wiley.com/doi/10.1002/9780470400531.eorms1097/abstract \[DOI\]]
+
+#== Peer-Reviewed Conferences
+
+#- Approximation Algorithms for Capacitated Perishable Inventory Systems with Positive Lead Times, with Xiuli Chao, Xiting Gong, Chaolin Yang, Huanan Zhang and Sean X. Zhou, acccepted at /2016 MSOM Supply Chain Management SIG Conference/.
+
+#- Efficiency of Capacity Investment Decisions in Revenue Sharing Joint Ventures with Spillovers, with Retsef Levi, Georgia Perakis and Wei Sun, extended abstract accepted at /2016 RMP Conference/.
+
+#- Approximation Algorithms for Capacitated Stochastic Inventory Systems with Setup Cost], with Xiuli Chao, Retsef Levi and Huanan Zhang, extended abstract accepted at /2013 MSOM Conference/.
+
+#- Contract Designs with Incentive Alignment for Joint Ventures in the Healthcare Industry], with Retsef Levi, Georgia Perakis and Wei Sun, extended abstract accepted at /2012 MSOM Conference/. 
+
+#- Revenue Management of Reusable Resources with Advanced Reservations], with Retsef Levi, extended abstract accepted at /2011 MSOM Conference/. 
+
+#- Approximation Algorithms for the Stochastic Lot-sizing Problem], with Retsef Levi, extended abstract accepted at /2009 MSOM Conference/.   
+
+# - Stochastic Economic Lot Scheduling Problem with Sequence-dependent Setup Costs, with Joline Uichanco, /in preparation/.
+
+#== Editorial Service
+
+#- Senior Editor, *Production and Operations Management*, 2019--
+#- Associate Editor, *IISE Transactions*, 2017--
+#- Associate Editor, *Operations Research Letters*, 2015--
+
+
+#== External Grants
+
+#- NSF CMMI-1362619 (Co-PI), NSF CMMI-1451078 (PI), NSF CMMI-1634505 (PI).

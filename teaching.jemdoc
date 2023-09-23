@@ -1,0 +1,87 @@
+# jemdoc: nofooter, menu{MENU}{teaching.html}
+#
+= Esmaeil Keyvanshokooh - Teaching
+#
+
+
+== Teaching Interests
+Teaching is an integral and fascinating part of my career. I have gained teaching experience at various levels: as an instructor with full responsibility for a graduate-undergraduate course, as a teaching assistant for a wide range of applied and theoretical courses, and as a research mentor for undergraduate and graduate students. My teaching interests are as follows: \n
+
+-  *Undergraduate*: Artificial Intelligence, Machine Learning, Optimization, Healthcare and Supply Chain Management.
+-  *Graduate*: Machine Learning Theory, Predictive & Prescriptive Business Analytics, Data-Driven Optimization under Uncertainty, Reinforcement Learning Theory, Modern Convex Optimization. 
+
+
+== Sole Instructor
+- Class: Operations Management (SCMT 364), 2 Sections, Spring 2022.
+-- Department of Information & Operations Management at the Mays Business Schoo, Texas A&M University. 
+-- Enrollment: 35 undergraduate students.
+#-- Outline: This is a graduate-undergraduate class, which includes data analytics, capacity management, inventory control, supply chain management systems, queueing models and systems, and the mathematics and physics of service enterprises.
+#-- Instructor Evaluation: *4.6 out of 5*.
+
+#~~~
+#{}{img_left}{Pictures/Class2.jpg}{Esmaeil Keyvanshokooh}{480}{160}{}
+- Class: [IOE440_F18_Syllabus.pdf Operations Analysis and Management] (IOE 440), Fall 2018.
+-- The Industrial & Operations Engineering Department at the University of Michigan, Ann Arbor. 
+-- Enrollment: 69 undergraduate and graduate students.
+-- Outline: This is a graduate-undergraduate class, which includes data analytics, capacity management, inventory control, supply chain management systems, queueing models and systems, and the mathematics and physics of service enterprises.
+-- Instructor Evaluation: *4.6 out of 5*.
+#~~~
+
+
+
+
+== Teaching Assistant
+- Class: Stochastic Processes (IOE 515), Fall 2020.
+-- The Industrial & Operations Engineering Department at University of Michigan. 
+-- Enrollment: 51 master and Ph.D. students.
+-- Outline: This is a core Ph.D. class, which includes probability theory, Poisson processes, renewal processes, martingales, and discrete and continuous time Markov chains.
+#-- Instructor Evaluation: *4.55 out of 5*. \n
+
+- I have been a teaching assistant for the following courses at Iowa State University: 
+-- Probability Theory & Statistics, 
+-- Inventory Control & Production Planning, 
+-- Decision Making Analysis,
+-- Linear Programming & Optimization, and 
+-- Engineering Economy.
+
+
+== Academic Service & Mentoring
+- *Journal Referee*:
+-- Operations Research, Manufacturing & Service Operations Management, Production & Operations Management, Journal of Operations Management, Naval Research Logistics, Healthcare Management Science, IISE Transactions, Optimization Letters, European Journal of Operational Research, International Journal of Management Science (Omega), International Journal of Production Research, Computers and Operations Research, Journal of the Operational Research Society, and Computers and Industrial Engineering. \n
+
+- *Judge for Conferences and Awards*:
+-- MSOM Service Operations SIG Conference 2021.
+-- MSOM Service Operations SIG Conference 2022.
+-- MSOM Healthcare Operations SIG Conference 2022
+
+- *Academic Panelist for Societies*:
+-- Academic Job Search Panel, Minority Issues Forum, INFORMS 2021.
+-- POMS Ph.D. Job Search Workshop Series, POMS Society, 2021.
+
+- *IOE INFORMS Student Chapter*:
+-- I have been served as the Professional Development Chair for 2018-19 and 2019-20. \n
+-- Received INFORMS Student Chapter Award at Summa Cum Laude level (2019-2020). \n
+
+- *Primary Supervisor of IOE Undergraduate Research*:
+-- Chun Hu (2017-2018): Machine learning approaches for classifying patients in chronic disease. \n
+-- Xiaofeng Zou (2018-2019): Contextual learning of personalized patient progression in Glaucoma.
+
+#== Recent Publications During Ph.D. Candidacy
+
+#- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3352166 Online Advance Scheduling with Overtime: A Primal-Dual Approach], \n
+#Esmaeil Keyvanshokooh, Cong Shi, M. P. Van Oyen, Accepted at *Manufacturing & Service Operations Management*. [https://pubsonline.informs.org/doi/10.1287/msom.2019.0832 \[DOI\]]
+#-- Collaboration with Michigan Medicine. 
+#-- Richard C. Wilson Prize for Best Student Paper on Service Systems, 2019.
+
+
+
+#== Research Grant Writing Experiences
+#During my Ph.D. studies at the University of Michigan, I have gained experience in writing grant proposals for different funding agencies: \n
+
+#- *Data Science Grant for COVID-19 Research (Michigan Institute for Data Science)*: Data-Driven Epidemic Prediction and Key Resource Optimization to Combat COVID-19, Fall 2020.
+#- *National Science Foundation Grant*: Uncertainty-Sensitive Real-Time Appointment Scheduling for Healthcare Services Delivery, Winter 2018.
+#- *Shaffer Grant for Glaucoma Research Foundation*:  Using Machine Learning Methods to Forecast Glaucoma Development, Fall 2017.
+
+
+
+
