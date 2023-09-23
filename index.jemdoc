@@ -6,10 +6,11 @@
 ~~~
 {}{img_left}{ESK.JPG}{Esmaeil Keyvanshokooh}{180}{200}{}
 [http://www-personal.umich.edu/~keyvan/ Esmaeil Keyvanshokooh] \n
-Assistant Professor of Operations Management \n
+Assistant Professor \n
 [https://mays.tamu.edu/department-of-information-and-operations-management/ Department of Information & Operations Management] \n
 [https://mays.tamu.edu/ Mays Business School, Texas A&M University]\n 
 E-mail: keyvan-at-tamu-dot-edu \n 
+E-mail: ekshokooh-at-gmail-dot-com \n
 [https://scholar.google.com/citations?hl=en&user=U178RcIAAAAJ&view_op=list_works&sortby=pubdate Google Scholar] \n
 [https://twitter.com/esmaeilkeyvan Twitter] \n
 [https://www.linkedin.com/in/esmaeil-keyvanshokooh-52387546/  Linkedin] \n
@@ -17,7 +18,7 @@ E-mail: keyvan-at-tamu-dot-edu \n
 ~~~
 
 == About Me
-I am an Assistant Professor of Operations Management at the [https://mays.tamu.edu/department-of-information-and-operations-management/ Department of Information & Operations Management] of the [https://mays.tamu.edu/ Mays Business School, Texas A&M University]. I received my Ph.D. degree in *Operations Research* at the [http://ioe.engin.umich.edu/ Department of Industrial & Operations Engineering] of the [https://umich.edu/ University of Michigan at Ann Arbor]. I earned a MSc in *Statistics* at the [https://lsa.umich.edu/stats Department of Statistics] of the University of Michigan, and a MSc in Industrial Engineering and Operations Research from the Iowa State University. I worked as a Machine Learning & Operation Research Analyst at Norfolk Southern Corporation, Atlanta, Georgia.\n
+I am an Assistant Professor of [https://mays.tamu.edu/department-of-information-and-operations-management/ Information & Operations Management] at the [https://mays.tamu.edu/ Mays Business School, Texas A&M University]. I am also a research affiliate faculty at [https://tamids.tamu.edu/ Texas A&M Data Science Institute (TAMIDS)]. I received my Ph.D. degree in *Operations Research* in May 2021 from the [http://ioe.engin.umich.edu/ Department of Industrial & Operations Engineering] of the [https://umich.edu/ University of Michigan at Ann Arbor]. I earned an M.A. in *Statistics* from the University of Michigan, and a M.S. in Industrial Engineering and Operations Research from the Iowa State University. Before my Ph.D. studies, I worked as a Machine Learning & Operation Research Analyst at Norfolk Southern Corporation, Atlanta, Georgia.\n
 #- *I am on the 2020-2021 academic job market.*
 #- I will be available for interviews at the INFORMS virtual meeting 2020, where I will also be presenting my work in the following three sessions:
 #-- *Personalized Data-Driven Learning And Optimization For Healthcare*, Session: SA08; Nov 8, 2020, 1:15 PM - 2:30 PM. 
@@ -34,36 +35,39 @@ I am an Assistant Professor of Operations Management at the [https://mays.tamu.e
 == About My Research Interests
 #My research interests lie at the interface of statistical machine learning (ML), artificial intelligence (AI), and operations research. In particular, I have developed efficient and effective personalized data-driven sequential decision-making algorithms with theoretical performance guarantees. These algorithms learn from sequentially collected data over time to make efficient and effective decisions for each individual under an uncertain environment. 
 
-- My research interests lie at the interface of statistical machine learning and optimization. In particular, I am interested in developing data-driven sequential decision-making methodologies under an uncertain environment and prove theoretical performance guarantees for them. My research is motivated by many real-world problems with both practical impact and interesting theoretical challenges. 
+My research interests lie at developing novel data-driven decision-making methodologies through integrating statistical learning theory and data-driven optimization algorithms, with emphasis on deriving their theoretical performance guarantees. My research problems are motivated by real-world needs with both practical impact and interesting theoretical challenges.\n
+
 #These methodologies learn from sequentially collected observational data over time to make efficient and effective online (real-time) decisions for each individual as a function of the individual features.
--- *Methodologies*: Data-Driven Optimization, Machine Learning, Reinforcement Learning & Multi-armed Bandits, Causal Inference. \n
+- *Methodologies*: Data-Driven Optimization, Online and Offline Learning Algorithms, Sequential Decision Making under Uncertainty, Interplay of Statistics, Optimization, and Machine Learning. \n
 #- For applications, my research seeks practical solutions by developing or leveraging state-of-the-art analytics methodologies to yield insights and new functionality, and to address real-world needs raised by different industries and healthcare institutions. 
 #My research problems are motivated by the practice and data of my collaborators in Mayo Clinic, Massachusetts General Hospital, Michigan Medicine, Kellogg Eye Center, and St. Joseph Hospital.
--- *Applications*: Healthcare Analytics and Operations, Medical Decision-Making, Business Analytics, Operations Management. \n
+- *Applications*: Healthcare Systems and Analytics, Personalized Medicine, Applications of Artificial Intelligence and Business Analytics for Social Impacts. \n
 
 #- Previously, I have also explored topics related to revenue management, dynamic pricing, logistics and supply chain management. 
 
-- More information on my work can be found on my [http://www-personal.umich.edu/~keyvan/publication.html publication] page and [https://scholar.google.com/citations?user=U178RcIAAAAJ&hl=en&authuser=1 Google Scholar].
+- More information on my work can be found on my [http://www-personal.umich.edu/~keyvan/publication.html Publication] page and [https://scholar.google.com/citations?user=U178RcIAAAAJ&hl=en&authuser=1 Google Scholar].
 
 
 
 
 
 == Selected Honors and Awards
+My research has received several recognitions, including:
+
 - Finalist, *POMS College of Healthcare Operations Management (CHOM) Best Paper Competition*, 2022. 
--- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
+#-- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
 - Finalist, *INFORMS MSOM Best Student Paper Competition*, 2021.
--- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
+#-- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
 - Finalist, *INFORMS Health Applications Society (HAS) Best Student Paper Competition*, 2021.
--- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
-- Finalist, *INFORMS Decision Analysis Society (DAS) Best Student Paper Competition*, 2020.
--- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
-- Winner, *Katta G. Murty Prize for Best Student Paper on Optimization*, 2020.
--- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
-- Winner, *Richard C. Wilson Prize for Best Student Paper on Service Systems*, 2019.
--- For the paper: Advance Online Scheduling with Overtime: a Primal-Dual Approach.
+#-- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
+- Second place, *INFORMS Decision Analysis Society (DAS) Best Student Paper Competition*, 2020.
+#-- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
+- Winner, *IOE Katta G. Murty Prize for Best Student Paper on Optimization*, 2020.
+#-- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
+- Winner, *IOE Richard C. Wilson Prize for Best Student Paper on Service Systems*, 2019.
+#-- For the paper: Advance Online Scheduling with Overtime: a Primal-Dual Approach.
 - Winner, *IOE Bonder Fellowship Award in Applied Operations Research*, 2017.
--- For the paper: Coordinated and Priority-based Surgical Care: An Integrated Distributionally Robust Stochastic Optimization Approach.
+#-- For the paper: Coordinated and Priority-based Surgical Care: An Integrated Distributionally Robust Stochastic Optimization Approach.
 - *University of Michigan Rackham Pre-doctoral Fellowship Award*, 2019.
 
 #- [https://rackham.umich.edu/discover-rackham/announcing-the-2019-2020-rackham-predoctoral-fellowship-winners University of Michigan Rackham Pre-doctoral Fellowship Award], 2019.
