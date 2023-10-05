@@ -4,17 +4,19 @@
 #
 
 
-== Teaching Interests
-Teaching is an integral and fascinating part of my career. I have gained teaching experience at various levels: as an instructor with full responsibility for a graduate-undergraduate course, as a teaching assistant for a wide range of applied and theoretical courses, and as a research mentor for undergraduate and graduate students. My teaching interests are as follows: \n
+#== Teaching Interests
+#Teaching is an integral and fascinating part of my career. I have gained teaching experience at various levels: as an instructor with full responsibility for a graduate-undergraduate course, as a teaching assistant for a wide range of applied and theoretical courses, and as a research mentor for undergraduate and graduate students. My teaching interests are as follows: \n
 
--  *Undergraduate*: Artificial Intelligence, Machine Learning, Optimization, Healthcare and Supply Chain Management.
--  *Graduate*: Machine Learning Theory, Predictive & Prescriptive Business Analytics, Data-Driven Optimization under Uncertainty, Reinforcement Learning Theory, Modern Convex Optimization. 
+#-  *Undergraduate*: Artificial Intelligence, Machine Learning, Optimization, Healthcare and Supply Chain Management.
+#-  *Graduate*: Machine Learning Theory, Predictive & Prescriptive Business Analytics, Data-Driven Optimization under Uncertainty, Reinforcement Learning Theory, Modern Convex Optimization. 
 
 
 == Sole Instructor
-- Class: Operations Management (SCMT 364), 2 Sections, Spring 2022.
+- Class: Operations Management (SCMT 364).
+-- 2 Sections on Spring 2022 and 3 Large Sections on Spring 2023.
 -- Department of Information & Operations Management at the Mays Business Schoo, Texas A&M University. 
--- Enrollment: 35 undergraduate students.
+-- Outline: This is a core undergraduate class that includes concepts, issues, and techniques used to plan, analyze, and control production systems and operational problems in producing goods and services.
+#-- Enrollment: 35 undergraduate students.
 #-- Outline: This is a graduate-undergraduate class, which includes data analytics, capacity management, inventory control, supply chain management systems, queueing models and systems, and the mathematics and physics of service enterprises.
 #-- Instructor Evaluation: *4.6 out of 5*.
 
@@ -38,21 +40,16 @@ Teaching is an integral and fascinating part of my career. I have gained teachin
 #-- Instructor Evaluation: *4.55 out of 5*. \n
 
 - I have been a teaching assistant for the following courses at Iowa State University: 
--- Probability Theory & Statistics, 
--- Inventory Control & Production Planning, 
--- Decision Making Analysis,
--- Linear Programming & Optimization, and 
--- Engineering Economy.
+-- Probability Theory & Statistics, Inventory Control & Production Planning, Decision Making Analysis, Linear Programming & Optimization, and Engineering Economy.
 
 
 == Academic Service & Mentoring
 - *Journal Referee*:
--- Operations Research, Manufacturing & Service Operations Management, Production & Operations Management, Journal of Operations Management, Naval Research Logistics, Healthcare Management Science, IISE Transactions, Optimization Letters, European Journal of Operational Research, International Journal of Management Science (Omega), International Journal of Production Research, Computers and Operations Research, Journal of the Operational Research Society, and Computers and Industrial Engineering. \n
+-- Management Science, Operations Research, Manufacturing & Service Operations Management, Production & Operations Management, Journal of Operations Management, Naval Research Logistics, Healthcare Management Science, IISE Transactions, Optimization Letters, European Journal of Operational Research, International Journal of Management Science (Omega), International Journal of Production Research, Computers and Operations Research, Journal of the Operational Research Society, and Computers and Industrial Engineering. \n
 
 - *Judge for Conferences and Awards*:
--- MSOM Service Operations SIG Conference 2021.
--- MSOM Service Operations SIG Conference 2022.
--- MSOM Healthcare Operations SIG Conference 2022
+-- MSOM Service Operations SIG Conference 2021, 2022, and 2023.
+-- MSOM Healthcare Operations SIG Conference 2021, 2022, and 2023.
 
 - *Academic Panelist for Societies*:
 -- Academic Job Search Panel, Minority Issues Forum, INFORMS 2021.
@@ -62,9 +59,9 @@ Teaching is an integral and fascinating part of my career. I have gained teachin
 -- I have been served as the Professional Development Chair for 2018-19 and 2019-20. \n
 -- Received INFORMS Student Chapter Award at Summa Cum Laude level (2019-2020). \n
 
-- *Primary Supervisor of IOE Undergraduate Research*:
--- Chun Hu (2017-2018): Machine learning approaches for classifying patients in chronic disease. \n
--- Xiaofeng Zou (2018-2019): Contextual learning of personalized patient progression in Glaucoma.
+#- *Primary Supervisor of IOE Undergraduate Research*:
+#-- Chun Hu (2017-2018): Machine learning approaches for classifying patients in chronic disease. \n
+#-- Xiaofeng Zou (2018-2019): Contextual learning of personalized patient progression in Glaucoma.
 
 #== Recent Publications During Ph.D. Candidacy
 
