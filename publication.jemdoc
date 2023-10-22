@@ -9,16 +9,6 @@
 
 == Under Revision/Review Papers
 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316 Contextual Learning with Online Convex Optimization: Theory and Application to Medical Decision-Making], \n
-Minor Revision at *Management Science*. \n
-E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian. \n
-(In collaboration with [https://www.massgeneral.org/ Massachusetts General Hospital]). 
--- Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2022.
--- Finalist, INFORMS MSOM Best Student Paper Competition, 2021.
--- Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021.
--- Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020.
--- Winner, IOE Katta G. Murty Prize for Best Student Paper on Optimization, 2020.
-
 
 - [https://optimization-online.org/?p=23949 Data-Driven Counterfactual Optimization for Personalized Clinical Decision-Making], \n
 Under Review, 2023 \n
@@ -46,6 +36,17 @@ R. Gao, J. Cao, E. Keyvanshokooh (All three authors have equal contributions).
 K. Gan, E. Keyvanshokooh, X. Liu, S. Murphy.
 
 == Published and Accepted Papers 
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316 Contextual Learning with Online Convex Optimization: Theory and Application to Medical Decision-Making], \n
+Accepted at *Management Science*. \n
+E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian. \n
+(In collaboration with [https://www.massgeneral.org/ Massachusetts General Hospital]). 
+-- Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2022.
+-- Finalist, INFORMS MSOM Best Student Paper Competition, 2021.
+-- Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021.
+-- Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020.
+-- Winner, IOE Katta G. Murty Prize for Best Student Paper on Optimization, 2020.
+
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433 Data-Driven Hospital Admission Control: A Learning Approach], \n
 Accepted at *Operations Research*. [https://doi.org/10.1287/opre.2020.0481 \[DOI\]] \n
