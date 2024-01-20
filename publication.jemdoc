@@ -10,6 +10,10 @@
 
 == Published and Accepted Papers 
 
+- [https://arxiv.org/abs/2305.18511 Contextual Bandits with Budgeted Information Reveal], \n
+*International Conference on Artificial Intelligence and Statistics (AISTATS 2024)* \n
+K. Gan, E. Keyvanshokooh, X. Liu, S. Murphy.
+
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316 Contextual Learning with Online Convex Optimization: Theory and Application to Medical Decision-Making], \n
 *Management Science*, to appear. \n
 E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian. \n
@@ -60,11 +64,6 @@ E. Keyvanshokooh, M. Fattahi, K. Freedberg, P. Kazemian, \n
 Under Review, 2023 \n
 C.-Y. Liao, E. Keyvanshokooh, G.-G. P. Garcia. \n
 -- Finalist, SMDM Lee B. Lusted Prize in Quantitative Methods & Theoretical Development, 2023 (Awarded to C.-Y. Liao).
-
-
-- [https://arxiv.org/abs/2305.18511 Contextual Bandits with Budgeted Information Reveal], \n
-Under Review, 2023 \n
-K. Gan, E. Keyvanshokooh, X. Liu, S. Murphy.
 
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4583667 Safe Reinforcement Learning with Contextual Information: Theory and Application to Personalized Comorbidity Management], \n
