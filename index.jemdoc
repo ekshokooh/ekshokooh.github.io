@@ -35,26 +35,28 @@ I am an Assistant Professor of Information & Operations Management at the [https
 == About My Research Interests
 #My research interests lie at the interface of statistical machine learning (ML), artificial intelligence (AI), and operations research. In particular, I have developed efficient and effective personalized data-driven sequential decision-making algorithms with theoretical performance guarantees. These algorithms learn from sequentially collected data over time to make efficient and effective decisions for each individual under an uncertain environment. 
 
-My research interests lie at developing data-driven decision-making methodologies through integrating machine learning theory and data-driven optimization algorithms, with emphasis on deriving their theoretical performance guarantees. My research problems are motivated by real-world needs with both practical impact and interesting theoretical challenges, aiming to establish theoretically elegant and practically relevant research.\n
+My research interests lie at developing data-driven decision-making methodologies through integrating machine learning theory and data-driven optimization algorithms, with emphasis on deriving their theoretical performance guarantees. My research problems are motivated by real-world needs with both societal impacts and interesting theoretical challenges. \n #aiming to establish theoretically elegant and practically relevant research.\n
 
 #These methodologies learn from sequentially collected observational data over time to make efficient and effective online (real-time) decisions for each individual as a function of the individual features.
 - *Methodologies*: Data-Driven Optimization, Sequential Decision-Making under Uncertainty, Human-AI Interfaces, Interplay of Statistics, Optimization, and Machine Learning. \n
 #- For applications, my research seeks practical solutions by developing or leveraging state-of-the-art analytics methodologies to yield insights and new functionality, and to address real-world needs raised by different industries and healthcare institutions. 
 #My research problems are motivated by the practice and data of my collaborators in Mayo Clinic, Massachusetts General Hospital, Michigan Medicine, Kellogg Eye Center, and St. Joseph Hospital.
-- *Applications*: Healthcare and Public Policy, Service Operations, Applications of Artificial Intelligence and Business Analytics for Social Impacts. \n
+- *Applications*: Healthcare and Public Policy, Service Operations, Applications of Artificial Intelligence and Business Analytics for Societal Impacts. \n
 
 #- Previously, I have also explored topics related to revenue management, dynamic pricing, logistics and supply chain management. 
 
 - More information on my work can be found on my [https://ekshokooh.github.io/publication.html Publication] page and [https://scholar.google.com/citations?hl=en&user=U178RcIAAAAJ&view_op=list_works&sortby=pubdate Google Scholar].
 
+-- Academic Collaborators: I'm actively taking on more projects. If you have an interesting problem that intersects with some of my work and interest, or are looking for a new problem, please reach out over email.
+-- Prospective Students: I'm always looking for PhD and master students with strong backgrounds in machine learning theory and data-driven optimization. Pleae reach out over email if you are interested. 
 
 == Selected Honors and Awards
-My research has received several recognitions, including:
+My research has received several recognitions:
 
 #- NIH Research Grant Award, *Design and Assessment of Fair Algorithms for Counterfactual Explanations to Generate Digital Role Models for Patients with Type-2 Diabetes and Hypertension*, 2023.
 
-- Runner-Up, *POMS College of Healthcare Operations Management (CHOM) Best Paper Competition*, 2024.
-- Research Grant Award from the National Institutes of Health (NIH)'s [https://www.aim-ahead.net/ AIM-AHEAD Consortium Development Program], *Design and Assessment of Fair Algorithms for Counterfactual Explanations to Generate Digital Role Models for Patients with Type-2 Diabetes and Hypertension*, 2023.
+- Second place, *POMS College of Healthcare Operations Management (CHOM) Best Paper Competition*, 2024.
+- Research Grant Award from the NIH's [https://www.aim-ahead.net/ AIM-AHEAD Consortium Development Program], *Design and Assessment of Fair Algorithms for Counterfactual Explanations to Generate Digital Role Models for Patients with Type-2 Diabetes and Hypertension*, 2023.
 - Finalist, *POMS College of Healthcare Operations Management (CHOM) Best Paper Competition*, 2022. 
 #-- For the paper: Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making.
 - Finalist, *INFORMS MSOM Best Student Paper Competition*, 2021.
