@@ -26,9 +26,11 @@ E. Keyvanshokooh, K. Gan, Y. Guo, X. Liu, A. Trella, S. Murphy.
 - [https://arxiv.org/pdf/2402.01995.pdf  Online Uniform Allocation: Randomized Learning-Augmented Approximation Algorithms with Application to Digital Health], \n
 X. Liu, K. Gan, E. Keyvanshokooh, S. Murphy.
 
-
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894219 Last-mile Humanitarian Logistics Planning with Isolated Communities], \n
 M. Noorizadegan, M. Fattahi, E. Keyvanshokooh, J. Stauffer.
+
+- HR-Bandit: Human-AI Collaborated Linear Recourse Bandit,\n
+J. Cao, R. Gao, E. Keyvanshokooh (all authors have equal contributions).
 
 #- Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations, \n
 #Preliminary version: Accepted at [https://sites.google.com/view/cist2023/home CIST 2023], \n
@@ -48,7 +50,8 @@ K. Gan, E. Keyvanshokooh, X. Liu, S. Murphy.
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316 Contextual Learning with Online Convex Optimization: Theory and Application to Medical Decision-Making], \n
 *Management Science*, to appear. \n
 E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian. \n
-(In collaboration with Massachusetts General Hospital). 
+(In collaboration with Massachusetts General Hospital).
+-- Media Coverage: [https://createdatmays.tamu.edu/blogs/2024/10/empowering-personalized-medicine-a-groundbreaking-data-driven-solution-for-optimizing-treatment-and-dosage-decisions/ Empowering Personalized Medicine: A Groundbreaking Data-Driven Solution for Optimizing Treatment and Dosage Decisions] 
 -- Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2022.
 -- Finalist, INFORMS MSOM Best Student Paper Competition, 2021.
 -- Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021.
