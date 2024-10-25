@@ -29,8 +29,9 @@ X. Liu, K. Gan, E. Keyvanshokooh, S. Murphy.
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894219 Last-mile Humanitarian Logistics Planning with Isolated Communities], \n
 M. Noorizadegan, M. Fattahi, E. Keyvanshokooh, J. Stauffer.
 
-- HR-Bandit: Human-AI Collaborated Linear Recourse Bandit,\n
-J. Cao, R. Gao, E. Keyvanshokooh (all authors have equal contributions).
+- [https://arxiv.org/abs/2410.14640 HR-Bandit: Human-AI Collaborated Linear Recourse Bandit],\n
+J. Cao, R. Gao, E. Keyvanshokooh (all authors have equal contributions), \n
+(Preliminary version: Accepted at [https://sites.google.com/view/cist2023/home CIST 2023]). 
 
 #- Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations, \n
 #Preliminary version: Accepted at [https://sites.google.com/view/cist2023/home CIST 2023], \n
