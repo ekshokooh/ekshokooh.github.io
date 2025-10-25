@@ -9,47 +9,40 @@
 
 == Working Papers
 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4583667 Safe Reinforcement Learning with Contextual Information: Theory and Applications], \n
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4583667 Safe Reinforcement Learning with Contextual Information: Theory and Application to Comorbidity Management], \n
 #Under Review, 2023 \n
 J. Cao, E. Keyvanshokooh, T. Liu  (The first two authors have equal contributions).
 -- Second Place, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2024.
 -- Accepted to the Healthcare SIG Track at INFORMS MSOM 2024. 
 
+- [https://dx.doi.org/10.2139/ssrn.5642250 Constraint-Aware Self-Improving Large Language Model for Clinical Role Model Generation], \n
+#Under Review, 2023 \n
+C.-Y. Liao, E. Keyvanshokooh, G.-G. P. Garcia. \n
+
+
 - [https://optimization-online.org/?p=23949 Augmenting Individualized Treatment Planning via Data-Driven Clinical Role Model Selection], \n
 #Under Review, 2023 \n
 C.-Y. Liao, E. Keyvanshokooh, F.J. Pasquel, G.-G. P. Garcia. \n
+(In collaboration with Emory Global Diabetes Research Center). 
 -- Finalist, SMDM Lee B. Lusted Prize in Quantitative Methods & Theoretical Development, 2023 (Awarded to C.-Y. Liao).
 
 - [https://ssrn.com/abstract=4903888 Improving Treatment Responses through Limited Nudges: A Data-Driven Learning and Optimization Approch], \n
 E. Keyvanshokooh, K. Gan, Y. Guo, X. Liu, A. Trella, S. Murphy.
 
-- [https://arxiv.org/pdf/2402.01995.pdf  Online Uniform Allocation: Randomized Learning-Augmented Approximation Algorithms with Application to Digital Health], \n
+- [https://doi.org/10.48550/arXiv.2402.01995  Online Uniform Sampling: Randomized Learning-Augmented Approximation Algorithms with Application to Digital Health], \n
 X. Liu, K. Gan, E. Keyvanshokooh, S. Murphy.
 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894219 Last-mile Humanitarian Logistics Planning with Isolated Communities], \n
-M. Noorizadegan, M. Fattahi, E. Keyvanshokooh, J. Stauffer.
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894219 Last-Mile Humanitarian Logistics Planning with Isolated Communities], \n
+M. Noorizadegan, M. Fattahi, E. Keyvanshokooh, J. Stauffer. \n
+(In collaboration with Honduras Red Cross).
 
-- [https://arxiv.org/abs/2410.14640 HR-Bandit: Human-AI Collaborated Linear Recourse Bandit],\n
-J. Cao, R. Gao, E. Keyvanshokooh (all authors have equal contributions), \n
-(Preliminary version: Accepted at [https://sites.google.com/view/cist2023/home CIST 2023]). 
-
-#- Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations, \n
-#Preliminary version: Accepted at [https://sites.google.com/view/cist2023/home CIST 2023], \n
-#R. Gao, J. Cao, E. Keyvanshokooh (All three authors have equal contributions).
-
-
-#- Distributional Fairness for Counterfactual Explanation with Model Uncertainty, \n
-#C.-Y. Liao, E. Keyvanshokooh, G.-G. P. Garcia.
 
 
 == Published and Accepted Papers 
 
-- [https://arxiv.org/abs/2305.18511 Contextual Bandits with Budgeted Information Reveal], \n
-*International Conference on Artificial Intelligence and Statistics (AISTATS 2024)* \n
-K. Gan, E. Keyvanshokooh, X. Liu, S. Murphy.
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316 Contextual Learning with Online Convex Optimization: Theory and Application to Medical Decision-Making], \n
-*Management Science*, to appear. \n
+*Management Science*, to appear. [https://doi.org/10.1287/mnsc.2019.03211 \[DOI\]] \n
 E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian. \n
 (In collaboration with Massachusetts General Hospital).
 -- Media Coverage: [https://createdatmays.tamu.edu/blogs/2024/10/empowering-personalized-medicine-a-groundbreaking-data-driven-solution-for-optimizing-treatment-and-dosage-decisions/ Empowering Personalized Medicine: A Groundbreaking Data-Driven Solution for Optimizing Treatment and Dosage Decisions] 
@@ -59,7 +52,14 @@ E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian. \n
 -- Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020.
 -- Winner, IOE Katta G. Murty Prize for Best Student Paper on Optimization, 2020.
 
+- [https://arxiv.org/abs/2410.14640 HR-Bandit: Human-AI Collaborated Linear Recourse Bandit],\n
+*International Conference on Artificial Intelligence and Statistics (AISTATS 2025)* \n
+J. Cao, R. Gao, E. Keyvanshokooh (all authors have equal contributions), \n
+(Preliminary version: Accepted at [https://sites.google.com/view/cist2023/home CIST 2023]). 
 
+- [https://arxiv.org/abs/2305.18511 Contextual Bandits with Budgeted Information Reveal], \n
+*International Conference on Artificial Intelligence and Statistics (AISTATS 2024)* \n
+K. Gan, E. Keyvanshokooh, X. Liu, S. Murphy.
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433 Data-Driven Hospital Admission Control: A Learning Approach], \n
 *Operations Research*, Vol. 71(6), 2111–2129, 2023. [https://doi.org/10.1287/opre.2020.0481 \[DOI\]] \n
@@ -92,10 +92,17 @@ E. Keyvanshokooh, M. Fattahi, K. Freedberg, P. Kazemian, \n
 (In collaboration with Massachusetts General Hospital and Harvard Medical School). 
 -- Among 7 papers accepted to the Special Issue: Advancing Pandemic Preparedness Through Data Analytics and Operations Research.
 
-#== Under Revision/Review Papers
+== Healthcare Analytics & Medical Journal Papers
 
+- [https://medinform.jmir.org/2025/1/e66200 A Responsible Framework for Assessing, Selecting, and Explaining Machine Learning Models in Cardiovascular Disease Outcomes Among People With Type 2 Diabetes: Methodology and Validation Study], \n
+*JMIR Medical Informatics*, Vol. 13, e66200, 2025. [https://medinform.jmir.org/2025/1/e66200 \[DOI\]] \n
+Y. Yang, C.-Y. Liao, E. Keyvanshokooh, H. Shao, M. B. Weber, F. Pasquel, and G.-G. P. Garcia, \n
+(In collaboration with Emory Global Diabetes Research Center).  
 
-
+- Development and Evaluation of Cardiovascular Disease Risk Models for Patients with Type 2 Diabetes, \n
+#*JMIR Medical Informatics*, Vol. 13, e66200, 2025. [https://medinform.jmir.org/2025/1/e66200 \[DOI\]] \n
+Y. Yang, T. Liu, C.-Y. Liao, S. J. Lee, E. Keyvanshokooh, H. Shao, M. B. Weber, F. J. Pasquel, and G.-G. P. Garcia, \n
+(In collaboration with Emory Global Diabetes Research Center). 
 
 
 == Selected Published Papers (Prior my Ph.D. studies) 
