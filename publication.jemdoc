@@ -13,43 +13,62 @@
 #Under Review, 2023 \n
 J. Cao, E. Keyvanshokooh, T. Liu  (The first two authors have equal contributions).
 -- Second Place, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2024.
--- Accepted to the Healthcare SIG Track at INFORMS MSOM 2024. 
+-- Selected for presentation at the Healthcare SIG Track at INFORMS MSOM 2024. 
 
 - [https://dx.doi.org/10.2139/ssrn.5642250 Constraint-Aware Self-Improving Large Language Model for Clinical Role Model Generation], \n
 #Under Review, 2023 \n
 C.-Y. Liao, E. Keyvanshokooh, G.-G. P. Garcia. \n
+(In collaboration with Emory Global Diabetes Research Center). 
+-- Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2026 (Awarded to C.-Y. Liao).
 
 - [https://ssrn.com/abstract=6085086 LIBRA: Language Model Informed Bandit Recourse Algorithm for Personalized Treatment Planning], \n
 #Under Review, 2023 \n
 J. Cao, R. Gao, E. Keyvanshokooh, J. Ma (all authors have equal contributions). \n
 
-
-- [https://optimization-online.org/?p=23949 Augmenting Individualized Treatment Planning via Data-Driven Clinical Role Model Selection], \n
-#Under Review, 2023 \n
-C.-Y. Liao, E. Keyvanshokooh, F.J. Pasquel, G.-G. P. Garcia. \n
-(In collaboration with Emory Global Diabetes Research Center). 
--- Finalist, SMDM Lee B. Lusted Prize in Quantitative Methods & Theoretical Development, 2023 (Awarded to C.-Y. Liao).
-
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5909422 Learning When to Nudge: A Dual-Agent Bandit Framework for Behavioral Interventions], \n
 E. Keyvanshokooh, K. Gan, Y. Guo, X. Liu, S. Murphy.
+
+- [https://dx.doi.org/10.2139/ssrn.6849918 Hidden Costs, Biased Decisions: Predicting and Optimizing E-Retailer Shipping Charges Under Information Asymmetry], \n
+Q. Zhu, E. Keyvanshokooh, G. R. Heim.
+
+- Decarbonizing Critical Care to Achieve ``Net Zero" Through Sustainable Operations Management, \n
+J. Qin, E. Keyvanshokooh, F. Sasangohar, F. Masud. \n
+(In collaboration with Houston Methodist Hospital). 
+-- Selected for presentation at the Healthcare SIG Track, MSOM Conference, 2026.
+
+- Hospital Admission and Patient Transfer Control: An Offline Doubly-Robust Learning Approach, \n
+S.S. Ghasbeh, E. Keyvanshokooh, A. Dean, M. P. Van Oyen. \n
+-- Second Place, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2026 (Awarded to S.S. Ghasbeh).
+
+- Sequential Feature Acquisition for Treatment Assignment under Partial Observability, \n
+M. J. Lee, R. Gao, E. Keyvanshokooh. \n
+-- Selected for presentation at the INFORMS Workshop on Data Science 2026.
 
 - [https://doi.org/10.48550/arXiv.2402.01995  Online Uniform Sampling: Randomized Learning-Augmented Approximation Algorithms with Application to Digital Health], \n
 X. Liu, K. Gan, E. Keyvanshokooh, S. Murphy.
 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894219 Last-Mile Humanitarian Logistics Planning with Isolated Communities], \n
-M. Noorizadegan, M. Fattahi, E. Keyvanshokooh, J. Stauffer. \n
-(In collaboration with Honduras Red Cross).
-
-
 
 == Published and Accepted Papers 
 
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894219 Last-Mile Humanitarian Logistics Planning with Isolated Communities], *Manufacturing & Service Operations Management*, to appear. \n
+M. Noorizadegan, M. Fattahi, E. Keyvanshokooh, J. Stauffer. \n
+(In collaboration with Honduras Red Cross).
+
+- [https://optimization-online.org/?p=23949 Augmenting Individualized Treatment Planning via Data-Driven Clinical Role Model Selection], *Production & Operations Management*, to appear. 
+[https://doi.org/10.1177/10591478261470667 \[DOI\]] \n
+C.-Y. Liao, E. Keyvanshokooh, F.J. Pasquel, G.-G. P. Garcia. \n
+(In collaboration with Emory Global Diabetes Research Center). 
+-- Selected for presentation at the Healthcare SIG Track at INFORMS MSOM 2026. 
+-- Honorable Mention, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2026.
+-- Finalist, SMDM Lee B. Lusted Prize in Quantitative Methods & Theoretical Development, 2023 (Awarded to C.-Y. Liao).
+
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316 Contextual Learning with Online Convex Optimization: Theory and Application to Medical Decision-Making], \n
-*Management Science*, to appear. [https://doi.org/10.1287/mnsc.2019.03211 \[DOI\]] \n
+*Management Science*, Vol. 71(2), 10442-10464, 2025. [https://doi.org/10.1287/mnsc.2019.03211 \[DOI\]] \n
 E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian. \n
 (In collaboration with Massachusetts General Hospital).
 -- Media Coverage: [https://createdatmays.tamu.edu/blogs/2024/10/empowering-personalized-medicine-a-groundbreaking-data-driven-solution-for-optimizing-treatment-and-dosage-decisions/ Empowering Personalized Medicine: A Groundbreaking Data-Driven Solution for Optimizing Treatment and Dosage Decisions] 
+-- Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition, 2026.
 -- Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2022.
 -- Finalist, INFORMS MSOM Best Student Paper Competition, 2021.
 -- Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021.
@@ -103,8 +122,8 @@ E. Keyvanshokooh, M. Fattahi, K. Freedberg, P. Kazemian, \n
 Y. Yang, C.-Y. Liao, E. Keyvanshokooh, H. Shao, M. B. Weber, F. Pasquel, and G.-G. P. Garcia, \n
 (In collaboration with Emory Global Diabetes Research Center).  
 
-- Development and Evaluation of Cardiovascular Disease Risk Models for Patients with Type 2 Diabetes, \n
-#*JMIR Medical Informatics*, Vol. 13, e66200, 2025. [https://medinform.jmir.org/2025/1/e66200 \[DOI\]] \n
+- [https://doi.org/10.1038/s41598-026-45129-5 Development and Evaluation of Cardiovascular Disease Risk Models for Patients with Type 2 Diabetes], \n
+*Scientific Reports*, Vol. 16 (1), 15574, 2026. [https://doi.org/10.1038/s41598-026-45129-5 \[DOI\]] \n
 Y. Yang, T. Liu, C.-Y. Liao, S. J. Lee, E. Keyvanshokooh, H. Shao, M. B. Weber, F. J. Pasquel, and G.-G. P. Garcia, \n
 (In collaboration with Emory Global Diabetes Research Center). 
 
